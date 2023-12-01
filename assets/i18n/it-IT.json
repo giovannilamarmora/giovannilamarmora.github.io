@@ -1,0 +1,218 @@
+{
+  "profile": {
+    "birthdayDate": "1994-08-25",
+    "currentLanguage": "Italian",
+    "currentLanguageIcon": "flag-it",
+    "follow": "Seguimi",
+    "contact": "Contattami",
+    "description": {
+      "pt1": "Ciao, Sono ",
+      "pt2": " con sede a Milano."
+    }
+  },
+  "biography": {
+    "title": "Biografia",
+    "text": "Appassionato della Tecnologia, fin da piccolo ho sempre sognato di poter lavorare in un azienda informatica. Mi sono diplomato come Perito Meccanico, ma la mia passione mi ha spinto successivamente a Intraprendere degli studi privati, anche grazie a dei corsi di formazione nell'ambito IT. Durante la mia crescita professionale ho utilizzato il mio tempo libero per applicare ed espandere le mie conoscenze in ambito informatico, ciò mi ha consentito di effettuare dei lavori da freelance che mi hanno spinto a voler espandere le mie conoscenze fino ad arrivare a studiare la programmazione in Java. Attualmente ricopro il ruolo di Junior Specialist per un'azienda informatica, e mi sto specializzando lato Angular. Per il futuro spero di poter collaborare alla crescita di una Grande Azienda."
+  },
+  "works-section": {
+    "title": "Esperienza Lavorativa"
+  },
+  "works": [
+    {
+      "identifier": 1,
+      "title": "Be | Shaping the Future",
+      "from": "Da Giugno 2021",
+      "to": "Attuale",
+      "role": "Specialist",
+      "where": "Milan, Italy",
+      "description": "Inserito nel gruppo UniCredit subito dopo l'assunzione, ho lavorato a diversi progetti utilizzando diverse tecnologie, tra cui <code>JPA, Hibernate, Quarkus, Spring Boot.</code> <br> Ho ottenuto una buona padronanza del Coverage del codice per poter effettuare correttamente i test con <code>JUnit e Mockito</code>, mentre per i test in locale e in ambiente dell'intero applicativo utilizzando Postman con i relativi enviroment. <br> Buona conoscenza degli ambienti di Pre-Deploy e Deploy dell'applicativo, come <code>Jenkins, Docker e Pods di OpenShift</code> e Database come <code>MySQL, Oracle SQL.</code> <br> Al momento sto lavoranco come Full Stack Developer in un progetto finanziario, utilizzando le seguenti tecnologie: <br><code> Java EE, Spring Boot, Angular, TypeScript, Node.js, PostgreSQL, Docker, Google Cloud Platform.</code>"
+    },
+    {
+      "identifier": 2,
+      "title": "Freelance Web Developer",
+      "from": "Da Gennaio 2017",
+      "to": "Attuale",
+      "role": "Graphic Web Design",
+      "where": "Bristol, United Kingdom",
+      "description": "Progettazione e manutenzione continua di siti web <code>HTML CSS e Javascript</code> con creazione di contenuti & design delle pagine web con collegamento social e test del web site con differenti Browser e formati."
+    },
+    {
+      "identifier": 3,
+      "title": "Freelance IT Technician",
+      "from": "Da Maggio 2012",
+      "to": "A Gennaio 2020",
+      "role": "IT Technician",
+      "where": "Bristol, United Kingdom",
+      "description": "&bull; Diagnosi e risoluzione dei problemi in modo efficiente, preservando l'integrità dei dati durante il processo. <br>&bull; Mantenere aggiornato il sistema operativo <code>Windows e Mac.</code><br>&bull; Aggiornamento dei vecchi laptop con un sistema operativo lite <code>(Linux / Chrome OS / Debian).</code><br>&bull; Upgrade Hardware di componenti come RAM o SSD.<br>&bull; Risoluzione dei problemi del sistema operativo.<br>&bull; Installazione e gestione del software <code>(Adobe, Office, VMWare, Eclipse).</code><br>&bull; Recupero dati per private e Piccole/Medie Aziende.<br>&bull; Riparazione e manutenzione di Smartphone <code>Android ed iOS.</code>"
+    },
+    {
+      "identifier": 4,
+      "title": "Rock N Bowl",
+      "from": "Da Settembre 2018",
+      "to": "A Settembre 2019",
+      "role": "Hostel Duty Manager",
+      "where": "Bristol, United Kingdom",
+      "description": "&bull; Responsabile delle prenotazioni.<br>&bull; Responsabile Del personale e alle ore lavorative.<br>&bull; Addetto all'assunzione del personale.<br>&bull; Responsabile d'ufficio.<br>&bull; Chiusura Giornaliera e settimanale e responsabile dei depositi in banca.<br>&bull; Gestione Prezzi dei pernottamenti.<br>&bull; Organizzazione eventi per grandi gruppi.<br>&bull; Responsabile della collaborazione con Expedia, Booking.com, Agoda.<br>&bull; Responsabile dei Social Media."
+    }
+  ],
+  "footer": {
+    "title_1": "Giovanni Lamarmora | Portfolio",
+    "title_2": "è stato sviluppato con AngularJS e Bootstrap.",
+    "title_3": "Copyright © 2022 Giovanni Lamarmora. All rights reserved."
+  },
+  "languages": {
+    "title": "Lingue",
+    "data": [
+      {
+        "name": "Italiano",
+        "flags": "flag-it",
+        "description": "Madrelingua",
+        "speaking_title": "Parlato",
+        "speaking_rate": "100",
+        "speaking_width": "width: 100%",
+        "writing_title": "Scritto",
+        "writing_rate": "100",
+        "writing_width": "width: 100%",
+        "comprehension_title": "Comprensione",
+        "comprehension_rate": "100",
+        "comprehension_width": "width: 100%"
+      },
+      {
+        "name": "Inglese",
+        "flags": "flag-en",
+        "description": "B1 al College Green Centre St George's Road Bristol",
+        "speaking_title": "Parlato",
+        "speaking_rate": "83",
+        "speaking_width": "width: 83%",
+        "writing_title": "Scritto",
+        "writing_rate": "83",
+        "writing_width": "width: 83%",
+        "comprehension_title": "Comprensione",
+        "comprehension_rate": "83",
+        "comprehension_width": "width: 83%"
+      },
+      {
+        "name": "Spagnolo",
+        "flags": "flag-es",
+        "description": "B1",
+        "speaking_title": "Parlato",
+        "speaking_rate": "67",
+        "speaking_width": "width: 67%",
+        "writing_title": "Scritto",
+        "writing_rate": "50",
+        "writing_width": "width: 50%",
+        "comprehension_title": "Comprensione",
+        "comprehension_rate": "67",
+        "comprehension_width": "width: 67%"
+      }
+    ]
+  },
+  "course-section": {
+    "title": "Corsi Professionali",
+    "courses": [
+      {
+        "identifier": 1,
+        "title": "Generation Italy",
+        "from": "Da Febbraio 2021",
+        "to": "A Maggio 2021",
+        "role": "Corso per Sviluppatore Java",
+        "where": "Milan, Italy",
+        "description": "Il corso online di 12 settimane, con frequenza giornaliera dalle ore 9 alle 18, organizzato da Generation Italy (Mc Kinsey) in collaborazione con <code>Intesa Sanpaolo</code>, mi ha permesso di acquisire le basi per lo sviluppo di applicazioni software e di gestione dei servizi web.<br>In particolare, abbiamo approfondito le principali tipologie di applicazioni server <code>(Jee, Mvc and Ajax)</code> e i Framework <code>Spring</code> e <code>Hibernate</code>, assieme al FrontEnd come <code>HTML5, CSS and JavaScript</code>.<br> Le settimane finali sono state dedicate ai servizi <code>Soap e Restful web services</code> e alla realizzazione di un progetto. <br> Nel contempo abbiamo lavorato perlo sviluppo di abilità comportamentali quali: <code>lavoro di squadra, adattabilità, comunicazione, persistenza, responsabilità personale, mentalità di crescita e orientamento al futuro.</code>"
+      },
+      {
+        "identifier": 2,
+        "title": "Cisco Networking Academy",
+        "from": "Da Settembre 2018",
+        "to": "A Novembre 2019",
+        "role": "CCNA 1, 2, 3, 4 Routing And Switching",
+        "where": "City of Bristol College, Bristol, United Kingdom",
+        "description": "<strong><h4>CCNA 1: Introduction to Networks, Punteggio: 89.5/100</h4></strong> <br>Ho correttamente completato il corso di CCNA Routing and Switching: Introduction to Networks, ed ho acquisito le seguenti capacità:<br>&bull; Corso Di introduzione alle Reti Cisco.<br>&bull; Spiegazione delle tecnologie di rete.<br>&bull; Descrizione hardware router.<br>&bull; Configurazione parametri iniziali di rete.<br><hr><strong><h4>CCNA 2: Routing and Switching Essentials, Punteggio: 89.1/100</h4></strong> <br>Ho correttamente completato il corso di CCNA Routing and Switching: Routing and Switching Essentials, ed ho acquisito le seguenti capacità:<br>&bull; Configurazione Di un dispositivo di rete.<br>&bull; Implementazione <code>VLANs</code>.<br>&bull; Implementazione <code>DHCP</code>.<br>&bull; Implementazione <code>NAT</code>.<br><hr><strong><h4>CCNA 3: Scaling Networks</h4></strong> <br>Ho correttamente completato il corso di CCNA Routing and Switching: Scaling Networks, ed ho acquisito le seguenti capacità:<br>&bull; Configurazione e risoluzione problemi STP.<br>&bull; VLAN Trunk Protocol (VTP).<br>&bull; Configurazione e risoluzione problemi <code>Cisco VLAN Trunk Protocol (VTP), STP, DTP, e RSTP</code>.<br>&bull; Configurazione <code>inter-VLAN</code>.<br>&bull; Configurazione <code>IPV4 ed IPV6</code>.<br><hr><strong><h4>CCNA 4: Advanced Networks</h4></strong><br>Ho correttamente completato il corso di CCNA Routing and Switching: Advanced Networks, ed ho acquisito le seguenti capacità:<br>&bull; Descrivere le diverse reti WAN ed il loro funzionamento.<br>&bull; Configurazione e risoluzione problemi PPP.<br>&bull; Configurazione PPPoE, GRE, and single-homed eBGP.<br>&bull; Spiegazione su come prevenire LAN security attacks.<br>&bull; Risoluzione problemi di rete da una piccola ad una media impresa di rete.<br>"
+      },
+      {
+        "identifier": 3,
+        "title": "Corso Lingua Inglese: Livello B1",
+        "from": "Da Gennaio 2017",
+        "to": "A Maggio 2017",
+        "role": "Corso di Inglese Livello B1",
+        "where": "City of Bristol College, Bristol, United Kingdom",
+        "description": "Ho correttamente completato il corso di Lingua Inglese per il Livello B1."
+      },
+      {
+        "identifier": 4,
+        "title": "CEH Cyber Security",
+        "from": "From November 2017",
+        "to": "To February 2018",
+        "role": "Cyber Security: Introducing to the World of Cyber Security",
+        "where": "Smart Learning, Udemy",
+        "description": "Ho correttamente completato il corso di Cyber Security CEH , ed ho acquisito le seguenti capacità:<br>&bull; Che cos'è un Ethical Hacker.<br>&bull; Quali sono i principali vettori di attacco ad una rete.<br>&bull; Le fasi di un attacco informatico.<br>&bull; Come si effettua un Penetration Testing.<br>&bull; Come creare il proprio laboratorio.<br>&bull; Utilizzare le macchine virtuali.<br>&bull; Installare sistemi operativi <code>Windows e Kali Linux</code>.<br>&bull; Eseguire i principali <code>comandi per Linux</code>.<br>&bull; Creare delle mappe concettuali.<br>&bull; Capire il funzionamento base di una rete.<br>&bull; Cos'è un <code>indirizzo IP</code>.<br>&bull; Come si utilizza il <code>PING-ARP-TRACEROUTE</code>.<br>&bull; Il funzionamento di <code>NAT-DNS-DHCP</code>.<br>&bull; Eseguire operazioni di base con <code>Netcat</code>.<br>&bull; Utilizzare <code>Cisco Packet Tracer</code> per la simulazione delle reti.<br>&bull; Come funziona una switch e cosa sono le <code>VLAN</code>.<br>&bull; La differenza tra un <code>router e un firewall</code>.<br>&bull; Cosa si intende per <code>Google Hacking</code>.<br>&bull; Raccogliere informazioni sui Social Media.<br>&bull; Come si interroga un <code>DNS</code>.<br>&bull; Trovare vulnerabilità con <code>Shodan</code>.<br>&bull; Installare e configurare un <code>honeypot</code>.<br>&bull; Effettuare la scansione di una rete.<br>&bull; Effettuare lo sniffing dei pacchetti con <code>Wireshark</code>.<br>&bull; La differenza tra protocollo <code>TCP e UDP</code>.<br>&bull; Le tecniche del Banner Grabbing.<br>&bull; La cattura dei banner con <code>TELNET,NETCAT e NMAP</code>.<br>&bull; Metodi di fingerprinting attivo e passivo.<br>&bull; Effettuare un vulnerability assessment.<br>&bull; L'installazione e configurazione di <code>Nessus</code>.<br>&bull; Lanciare una scansione con <code>Nexpose</code>.<br>&bull; Differenti tipi di Exploitation.<br>&bull; Introduzione e configurazione di Metasploit.<br>&bull; Utilizzare la shell <code>METERPRETER</code>.<br>&bull; Eludere gli antivirus con Veil.<br>&bull; Come effettuare l'escalation dei privilegi.<br>&bull; Come iniettare codice malevolo.<br>&bull; Installare una backdoor su un sistema bersaglio.<br>&bull; Le tecniche di pivoting di una rete.<br>&bull; Come scrivere il report finale del Penetration Testing.<br>"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contattami",
+    "profile_title": "Profilo",
+    "name": "Giovanni Lamarmora",
+    "name_title": "Nome",
+    "age_title": "Età",
+    "from": "Milano, Italia",
+    "from_title": "Da",
+    "downloadCV": "Download CV",
+    "follow_me": "Seguimi",
+    "contact_me": "Inviami un messaggio",
+    "email_title": "Email",
+    "description": "Dimmi di più riguardo la tua Richiesta...",
+    "send": "Invia Messaggio",
+    "experience": "2",
+    "experience_title": "Anni di esperienza",
+    "work_project": "10",
+    "work_project_title": "Progetti eseguiti <br>Be | Shaping The Future",
+    "project": "11",
+    "project_title": "Progetti Personali",
+    "course": "8",
+    "course_title": "Corsi eseguiti",
+    "send_email": {
+      "title": "Ciao $NAME$ , vuoi inviare il messaggio?",
+      "not_send": "Non Inviare",
+      "send": "Invia",
+      "send_error": "Errore durante l'invio del messaggio!",
+      "send_success": "Messaggio inviato correttamente!",
+      "not_send_error": "Non inviato!"
+    }
+  },
+  "project-section": {
+    "title": "Progetti Personali",
+    "btn_project": "Esplora Tutti",
+    "go_back": "Torna alla Homepage",
+    "projects": [
+      {
+        "id": 1,
+        "img": "assets/img/project/send-email.webp",
+        "titleSecondPage": "Email-Sender",
+        "descriptionSecondPage": [
+          "Spring Boot Framework",
+          "Github Workflow",
+          "Heroku"
+        ],
+        "btn_text": "Apri App",
+        "btn_href": "https://oraclewebserver.ddns.net/email-sender"
+      },
+      {
+        "id": 2,
+        "img": "assets/img/project/GitHub-Alternatives.webp",
+        "titleSecondPage": "Tutti i progetti su Github",
+        "btn_text": "Esplora Tutti",
+        "btn_href": "https://github.com/giovannilamarmora"
+      }
+    ]
+  },
+  "info": {
+    "title": "Questo Sito e in costruzione",
+    "text": "La versione visualizzata non è la versione ufficiale, nuovi contenuti arriveranno presto."
+  },
+  "email_content": {
+    "title": "BENVENUTO $NAME$!",
+    "sub-title": "Grazie per avermi contattato, questa è una copia della tua email.",
+    "important": "Ti contatterò il prima possibile, nel frattempo se hai altre domande, rispondi pure a questa email.",
+    "thanks": "Grazie, Giovanni Lamarmora"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "profile": {
+    "birthdayDate": "1994-08-25",
+    "currentLanguage": "English",
+    "currentLanguageIcon": "flag-en",
+    "follow": "Follow Me",
+    "contact": "Contact Me",
+    "description": {
+      "pt1": "Hello, I am ",
+      "pt2": " based in Milan."
+    }
+  },
+  "biography": {
+    "title": "Biography",
+    "text": "Passionate about technology, from an early age I have always dreamed of being able to work in an IT company. I graduated as a mechanical expert, but my passion subsequently led me to undertake private studies, also thanks to training courses in the IT field. During my professional growth I used my free time to study and expand my knowledge in the IT field, this allowed me to carry out freelance jobs that led me to want to expand my knowledge up to study developing in Java. I currently hold the role of Junior Specialist for an IT company, and I am specializing on the Angular side. For the future I hope to be able to collaborate in the growth of a big company."
+  },
+  "works-section": {
+    "title": "Work Experience"
+  },
+  "works": [
+    {
+      "identifier": 1,
+      "title": "Be | Shaping the Future",
+      "from": "From June 2021",
+      "to": "Current",
+      "role": "Specialist",
+      "where": "Milan, Italy",
+      "description": "Joined the UniCredit group immediately after hiring, I worked on several projects using different technologies, including <code> JPA, Hibernate, Quarkus, Spring Boot. </code> <br> I got a good command of Code Coverage for to be able to carry out the tests correctly with <code> JUnit and Mockito </code>, while for the tests locally and in the environment of the entire application using Postman with the relative enviroments. <br> Good knowledge of the application's Pre-Deploy and Deploy environments, such as <code> Jenkins, Docker and OpenShift Pods</code> and Database such as <code>MySQL, Oracle SQL.</code> <br> At the moment I'm working as a Full stack Developer in a financial project, using the following technologies: <br><code> Java EE, Spring Boot, Angular, TypeScript, Node.js, PostgreSQL, Docker, Google Cloud Platform.</code>"
+    },
+    {
+      "identifier": 2,
+      "title": "Freelance Web Developer",
+      "from": "From January 2017",
+      "to": "Current",
+      "role": "Graphic Web Design",
+      "where": "Bristol, United Kingdom",
+      "description": "Continuous design and maintenance of websites with content creation & design of <code>HTML CSS And Javascript</code> web pages with social connection and web site testing with different browsers and formats."
+    },
+    {
+      "identifier": 3,
+      "title": "Freelance IT Technician",
+      "from": "From May 2012",
+      "to": "To January 2020",
+      "role": "IT Technician",
+      "where": "Bristol, United Kingdom",
+      "description": "&bull; Diagnose and troubleshoot efficiently while preserving data integrity throughout the process. <br> &bull; Keep the <code>Windows and Mac operating system up to date.</code><br>&bull; Upgrading old laptops with a lite operating system <code>(Linux / Chrome OS / Debian).</code><br>&bull; Hardware upgrade of components such as RAM or SSD. <br>&bull; Troubleshooting the operating system. <br>&bull; Installation and management of software <code>(Adobe, Office, VMWare, Eclipse). </code> <br>&bull; Data recovery for private and small / medium businesses. <br>&bull; Repair and maintenance of <code>Android and iOS Smartphones. </code>"
+    },
+    {
+      "identifier": 4,
+      "title": "Rock N Bowl",
+      "from": "From September 2018",
+      "to": "To September 2019",
+      "role": "Hostel Duty Manager",
+      "where": "Bristol, United Kingdom",
+      "description": "&bull; Reservations Manager. <br>&bull; Personnel and working hours manager. <br>&bull; Personnel Recruitment Officer. <br>&bull; Office manager. <br>&bull; Daily and weekly closing and responsible for bank deposits. <br>&bull; Management of prices for overnight stays. <br>&bull; Event organization for large groups. <br>&bull; Responsible for collaboration with Expedia, Booking.com, Agoda. <br>&bull; Head of Social Media."
+    }
+  ],
+  "footer": {
+    "title_1": "Giovanni Lamarmora | Portfolio",
+    "title_2": "was made with AngularJS and Bootstrap.",
+    "title_3": "Copyright © 2022 Giovanni Lamarmora. All rights reserved."
+  },
+  "languages": {
+    "title": "Languages",
+    "data": [
+      {
+        "name": "Italian",
+        "flags": "flag-it",
+        "description": "Native Languages",
+        "speaking_title": "Speaking",
+        "speaking_rate": "100",
+        "speaking_width": "width: 100%",
+        "writing_title": "Writing",
+        "writing_rate": "100",
+        "writing_width": "width: 100%",
+        "comprehension_title": "Comprehension",
+        "comprehension_rate": "100",
+        "comprehension_width": "width: 100%"
+      },
+      {
+        "name": "English",
+        "flags": "flag-en",
+        "description": "B1 at College Green Centre St George's Road Bristol",
+        "speaking_title": "Speaking",
+        "speaking_rate": "83",
+        "speaking_width": "width: 83%",
+        "writing_title": "Writing",
+        "writing_rate": "83",
+        "writing_width": "width: 83%",
+        "comprehension_title": "Comprehension",
+        "comprehension_rate": "83",
+        "comprehension_width": "width: 83%"
+      },
+      {
+        "name": "Spanish",
+        "flags": "flag-es",
+        "description": "B1",
+        "speaking_title": "Speaking",
+        "speaking_rate": "67",
+        "speaking_width": "width: 67%",
+        "writing_title": "Writing",
+        "writing_rate": "50",
+        "writing_width": "width: 50%",
+        "comprehension_title": "Comprehension",
+        "comprehension_rate": "67",
+        "comprehension_width": "width: 67%"
+      }
+    ]
+  },
+  "course-section": {
+    "title": "Professional Training",
+    "courses": [
+      {
+        "identifier": 1,
+        "title": "Generation Italy",
+        "from": "From February 2021",
+        "to": "To May 2021",
+        "role": "Java Developer Course",
+        "where": "Milan, Italy",
+        "description": "The 12-week online course, with daily frequency from 9AM to 6PM, organized by Generation Italy (Mc Kinsey) in collaboration with <code>Intesa Sanpaolo</code>, allowed me to acquire the basics for the development of software applications and management of web services.<br>In particular, we have explored the main types of server applications <code>(Jee, Mvc and Ajax)</code> and the <code>Spring</code> and <code>Hibernate</code> frameworks, with some FrontEnd such as <code>HTML5, CSS and JavaScript</code>.<br>The final weeks were dedicated to <code>Soap and Restful web services</code> and to the realization of a project. <br>At the same time we have worked for the development of behavioral skills such as: <code>teamwork, adaptability, communication, persistence, personal responsibility, growth mentality and future orientation.</code>"
+      },
+      {
+        "identifier": 2,
+        "title": "Cisco Networking Academy",
+        "from": "From September 2018",
+        "to": "To November 2019",
+        "role": "CCNA 1, 2, 3, 4 Routing And Switching",
+        "where": "City of Bristol College, Bristol, United Kingdom",
+        "description": "<strong><h4>CCNA 1: Introduction to Networks, Score: 89.5/100</h4></strong> <br>I've have achieved student level credential for completing CCNA Routing and Switching: Introduction to Networks, and i acquired the following capabilities:<br>&bull; Explain network technologies.<br>&bull; Explain how devices access local and remote network resources.<br>&bull; Describe router hardware.<br>&bull; Explain how switching operates in a small to medium-sized business network.<br>&bull; Design an IP addressing scheme to provide network connectivity for a small to medium- sized business network.<br>&bull; Configure initial settings on a network device.<br>&bull; Implement basic network connectivity between devices.<br>&bull; Configure monitoring tools available for small to medium-sized business networks.<br><hr><strong><h4>CCNA 2: Routing and Switching Essentials, Score: 89.1/100</h4></strong> <br>I've successfully complete the CCNA Routing and Switching: Routing and Switching Essentials , and i acquired the following capabilities:<br>&bull; Determinate how a router will Forward traffic based on the contents of a routing table.<br>&bull; Explain how switching operates in a small to medium-sized business network.<br>&bull; Use monitoring tools and network management protocols to troubleshoot data networks.<br>&bull; Configure monitoring tools available for small to medium-sized business networks.<br>&bull; Configure initial settings on a network device.<br>&bull; Configure <code>Ethernet Switch</code> ports.<br>&bull; Implement <code>VLANs</code>.<br>&bull; Implement static routing and <code>RIPv2</code>.<br>&bull; Implement <code>DHCP</code> on a router.<br>&bull; Implement network address translation <code>(NAT)</code>.<br>&bull; Implement access control lists <code>(ACLs)</code> to filter Traffic.<br><hr><strong><h4>CCNA 3: Scaling Networks</h4></strong> <br>I've successfully completed the CCNA Routing and Switching: Scaling Networks, and i acquired the following capabilities:<br>&bull; Describe the operations and benefits of the Spanning Tree Protocol <code>(STP)</code>. <br>&bull; Configure and troubleshoot <code>STP</code> operations. <br>&bull; Describe the operations and benefits of link aggregation and <code>Cisco VLAN Trunk Protocol (VTP)</code>. <br>&bull; Configure and troubleshoot <code>VTP, STP, DTP, and RSTP</code>. <br>&bull; Configure and troubleshoot <codeinter-VLAN routing</code>. <br>&bull; Configure and troubleshoot <code>EtherChannel and HSRP</code>. <br>&bull; Configure and troubleshoot basic operations of routers in a complex routed network for <code>IPv4 and IPv6</code>. <br>&bull; Configure and troubleshoot advanced operations of routers and implement <code>OSPF and EIGRP</code> routing protocols for <code>IPv4 and IPv6</code>. <br><hr><strong><h4>CCNA 4: Advanced Networks</h4></strong><br> I've successfully completed the CCNA Routing and Switching: Advanced Networks, and i acquired the following capabilities:<br>&bull; Describe different <code>WAN</code> technologies and their benefits.&bull; Configure and troubleshoot <code>PPP</code>.<br>&bull; Configure <code>PPPoE, GRE, and single-homed eBGP</code>.&bull; Configure and troubleshoot extended <code>IPv4 and IPv6 ACLs</code>.&bull; Explain how to mitigate common <code>LAN</code> security attacks.&bull; Describe <code>QoS</code> operation.&bull; Describe evolving networks including cloud, virtualization, SDN, and the Internet of Things&bull; Troubleshoot end-to-end connectivity in a small to medium-sized business network, using a systematic approach."
+      },
+      {
+        "identifier": 3,
+        "title": "English Language: Level B1",
+        "from": "From January 2017",
+        "to": "To May 2017",
+        "role": "English Course Level B1",
+        "where": "City of Bristol College, Bristol, United Kingdom",
+        "description": "I've successfully completed the English course for a Level B1"
+      },
+      {
+        "identifier": 4,
+        "title": "CEH Cyber Security",
+        "from": "From November 2017",
+        "to": "To February 2018",
+        "role": "Cyber Security: Introducing to the World of Cyber Security",
+        "where": "Smart Learning, Udemy",
+        "description": "I've successfully completed the course of Cyber Security CEH , and i acquired the following capabilities:<br>&bull; What is an Ethical Hacker.<br>&bull; What are the main vectors of attack on a network.<br>&bull; The stages of a cyber attack.<br>&bull; How to carry out a Penetration Testing.<br>&bull; How to create your own workshop.<br>&bull; Use virtual machines.<br>&bull; Install <code>Windows and Kali Linux</code> operating systems.<br>&bull; Run the main <code>Linux commands</code>.<br>&bull; Create concept maps.<br>&bull; Understanding the basic operation of a network.<br>&bull; What is an <code>IP address</code>.<br>&bull; How to use the <code>PING-ARP-TRACEROUTE</code>.<br>&bull; How NAT-DNS-DHCP works.<br>&bull; Perform basic operations with Netcat.<br>&bull; Use Cisco Packet Tracer for network simulation.<br>&bull; How a switch works and what <code>VLANs</code> are.<br>&bull; The difference between a router and a firewall.<br>&bull; What is meant by <code>Google Hacking</code>.<br>&bull; Collect information on Social Media.<br>&bull; How to query a <code>DNS</code>.<br>&bull; Finding vulnerabilities with <code>Shodan</code>.<br>&bull; Install and configure a honeypot.<br>&bull; Scan a network.<br>&bull; Sniff packets with Wireshark.<br>&bull; The difference between TCP and UDP protocol.<br>&bull; The techniques of Banner Grabbing.<br>&bull; Banner capture with <code>TELNET, NETCAT and NMAP</code>.<br>&bull; Active and passive fingerprinting methods.<br>&bull; Perform a vulnerability assessment.<br>&bull; Nessus installation and configuration.<br>&bull; Launch a scan with Nexpose.<br>&bull; Different Types of Exploitation.<br>&bull; Introduction and configuration of Metasploit.<br>&bull; Use the <code>METERPRETER</code> shell.<br>&bull; Evade Antivirus with <code>Veil</code>.<br>&bull; How to escalate privileges.<br>&bull; How to inject malicious code.<br>&bull; Install a backdoor on a target system.<br>&bull; The pivoting techniques of a network.<br>&bull; How to write the final Penetration Testing report."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "profile_title": "Profile",
+    "name": "Giovanni Lamarmora",
+    "name_title": "Name",
+    "age_title": "Age",
+    "from": "Milan, Italy",
+    "from_title": "From",
+    "downloadCV": "Download CV",
+    "follow_me": "Follow me",
+    "contact_me": "Send me a Message",
+    "email_title": "Email",
+    "description": "Tell me more about your request...",
+    "send": "Send Message",
+    "experience": "2",
+    "experience_title": "Years Experiance",
+    "work_project": "10",
+    "work_project_title": "Projects Done <br>Be | Shaping The Future",
+    "project": "11",
+    "project_title": "Personal Projects",
+    "course": "8",
+    "course_title": "Courses Done",
+    "send_email": {
+      "title": "Hi $NAME$ , do you want to send the message?",
+      "not_send": "Don't send",
+      "send": "Send",
+      "send_error": "Error sending the message!",
+      "send_success": "Message sent successfully!",
+      "not_send_error": "Not Sended!"
+    }
+  },
+  "project-section": {
+    "title": "Personal Projects",
+    "btn_project": "Explore All",
+    "go_back": "Go back to Homepage",
+    "projects": [
+      {
+        "id": 1,
+        "img": "assets/img/project/send-email.webp",
+        "titleSecondPage": "Email-Sender",
+        "descriptionSecondPage": [
+          "Spring Boot Framework",
+          "Github Workflow",
+          "Heroku"
+        ],
+        "btn_text": "Open App",
+        "btn_href": "https://oraclewebserver.ddns.net/email-sender"
+      },
+      {
+        "id": 2,
+        "img": "assets/img/project/GitHub-Alternatives.webp",
+        "titleSecondPage": "More Project on Github",
+        "btn_text": "Explore All",
+        "btn_href": "https://github.com/giovannilamarmora"
+      }
+    ]
+  },
+  "info": {
+    "title": "This WebSite is under developing",
+    "text": "The version showed it's not the official version, new content are coming soon, Stay Tuned."
+  },
+  "email_content": {
+    "title": "WELCOME $NAME$!",
+    "sub-title": "Thanks to contact me, that's the copy of your email.",
+    "important": "I'll contact you back a soon as i can, in the maintime if you have any questions, just reply to this email.",
+    "thanks": "Cheers, Giovanni Lamarmora"
+  }
+}
