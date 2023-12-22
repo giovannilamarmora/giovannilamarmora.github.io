@@ -25,7 +25,7 @@
       "to": "Current",
       "role": "Specialist",
       "where": "Milan, Italy",
-      "description": "Joined the UniCredit group immediately after hiring, I worked on several projects using different technologies, including <code> JPA, Hibernate, Quarkus, Spring Boot. </code> <br> I got a good command of Code Coverage for to be able to carry out the tests correctly with <code> JUnit and Mockito </code>, while for the tests locally and in the environment of the entire application using Postman with the relative enviroments. <br> Good knowledge of the application's Pre-Deploy and Deploy environments, such as <code> Jenkins, Docker and OpenShift Pods</code> and Database such as <code>MySQL, Oracle SQL.</code> <br> At the moment I'm working as a Full stack Developer in a financial project, using the following technologies: <br><code> Java EE, Spring Boot, Angular, TypeScript, Node.js, PostgreSQL, Docker, Google Cloud Platform.</code>"
+      "description": "After joining the UniCredit group initially, I recently transitioned to Hype, contributing to projects involving technologies such as <code>Azure Pipeline</code> and its ecosystem. During this experience, I worked on applications based on <code>Spring Boot</code>, continuing to strengthen my skills in this framework.<br>My current role, back at UniCredit, focuses on a crucial project dedicated to corporate user login. In this context, I am primarily involved in development using <code>Spring Boot</code> and <code>PostgreSQL</code>. My commitment is to ensure secure and efficient access for corporate users, contributing to the overall success of the project.<br>Throughout my career, I have gained solid expertise in code coverage management, conducting accurate tests with <code>JUnit</code> and <code>Mockito</code>. I have also refined my skills in running local and full-scale tests using <code>Postman</code> and related environments.<br>My experience spans various Pre-Deploy and Deploy environments, utilizing tools such as <code>Jenkins</code>, <code>Docker</code>, and <code>OpenShift Pods</code>. I have worked with various databases, including <code>MySQL</code>, <code>PostgreSQL</code>, and <code>Oracle SQL</code>, contributing to the robustness of application operations.<br>Currently, my focus as a Full Stack Developer is on a financial project, where I use a wide range of technologies, including <code>Java EE</code>, <code>Spring Boot</code>, <code>Angular</code>, <code>TypeScript</code>, <code>Node.js</code>, <code>PostgreSQL</code>, <code>Docker</code>, and <code>Google Cloud Platform</code>."
     },
     {
       "identifier": 2,
@@ -58,7 +58,7 @@
   "footer": {
     "title_1": "Giovanni Lamarmora | Portfolio",
     "title_2": "was made with AngularJS and Bootstrap.",
-    "title_3": "Copyright © 2022 Giovanni Lamarmora. All rights reserved."
+    "title_3": "Copyright © 2023 Giovanni Lamarmora. All rights reserved."
   },
   "languages": {
     "title": "Languages",
@@ -162,11 +162,10 @@
     "email_title": "Email",
     "description": "Tell me more about your request...",
     "send": "Send Message",
-    "experience": "2",
     "experience_title": "Years Experiance",
     "work_project": "10",
     "work_project_title": "Projects Done <br>Be | Shaping The Future",
-    "project": "11",
+    "project": "12",
     "project_title": "Personal Projects",
     "course": "8",
     "course_title": "Courses Done",
@@ -194,7 +193,22 @@
           "Heroku"
         ],
         "btn_text": "Open App",
-        "btn_href": "https://oraclewebserver.ddns.net/email-sender"
+        "btn_href": "https://email-sender.hostwebserver.site/email-sender"
+      },
+      {
+        "img": "https://raw.githubusercontent.com/MoneyStats/App/main/assets/images/logos/logo.png",
+        "btn_href": "https://moneystats.github.io/App",
+        "titleSecondPage": "MoneyStats",
+        "id": 3,
+        "btn_text": "Apri App",
+        "descriptionSecondPage": [
+          "AngularJS",
+          "Spring Boot Framework",
+          "Github Workflow & Pages",
+          "Logtail",
+          "Oracle Cloud",
+          "Docker Container"
+        ]
       },
       {
         "id": 2,

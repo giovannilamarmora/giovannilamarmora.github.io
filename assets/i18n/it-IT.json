@@ -25,7 +25,7 @@
       "to": "Attuale",
       "role": "Specialist",
       "where": "Milan, Italy",
-      "description": "Inserito nel gruppo UniCredit subito dopo l'assunzione, ho lavorato a diversi progetti utilizzando diverse tecnologie, tra cui <code>JPA, Hibernate, Quarkus, Spring Boot.</code> <br> Ho ottenuto una buona padronanza del Coverage del codice per poter effettuare correttamente i test con <code>JUnit e Mockito</code>, mentre per i test in locale e in ambiente dell'intero applicativo utilizzando Postman con i relativi enviroment. <br> Buona conoscenza degli ambienti di Pre-Deploy e Deploy dell'applicativo, come <code>Jenkins, Docker e Pods di OpenShift</code> e Database come <code>MySQL, Oracle SQL.</code> <br> Al momento sto lavoranco come Full Stack Developer in un progetto finanziario, utilizzando le seguenti tecnologie: <br><code> Java EE, Spring Boot, Angular, TypeScript, Node.js, PostgreSQL, Docker, Google Cloud Platform.</code>"
+      "description": "Dopo aver fatto parte del gruppo UniCredit inizialmente, ho recentemente fatto transizione verso Hype, contribuendo a progetti che coinvolgono le tecnologie delle <code>Azure Pipeline</code> e il relativo ecosistema. Durante questa esperienza, ho lavorato su applicazioni basate su <code>Spring Boot</code>, continuando a consolidare le mie competenze in questo framework.<br>Il mio ruolo attuale, di nuovo presso UniCredit, si focalizza su un progetto cruciale dedicato al login per utenti corporate. In questo contesto, mi occupo principalmente dello sviluppo utilizzando <code>Spring Boot</code> e <code>PostgreSQL</code>. Il mio impegno è rivolto a garantire un accesso sicuro e efficiente per gli utenti aziendali, contribuendo al successo complessivo del progetto.<br>Nel corso della mia carriera, ho acquisito una solida competenza nella gestione della copertura del codice, eseguendo test accurati con <code>JUnit</code> e <code>Mockito</code>. Ho inoltre affinato le mie abilità nell'esecuzione di test locali e in ambiente completo tramite <code>Postman</code> e relativi ambienti.<br>La mia esperienza abbraccia diversi ambienti di Pre-Deploy e Deploy, facendo uso di strumenti come <code>Jenkins</code>, <code>Docker</code>, e Pods di <code>OpenShift</code>. Ho lavorato con diversi database, tra cui <code>MySQL</code>, <code>PostgreSQL</code> e <code>Oracle SQL</code>, contribuendo alla solidità delle operazioni dell'applicativo.<br>Attualmente, il mio focus come Full Stack Developer è su un progetto finanziario, dove utilizzo un ampio spettro di tecnologie, tra cui <code>Java EE</code>, <code>Spring Boot</code>, <code>Angular</code>, <code>TypeScript</code>, <code>Node.js</code>, <code>PostgreSQL</code>, <code>Docker</code>, e <code>Google Cloud Platform</code>."
     },
     {
       "identifier": 2,
@@ -58,7 +58,7 @@
   "footer": {
     "title_1": "Giovanni Lamarmora | Portfolio",
     "title_2": "è stato sviluppato con AngularJS e Bootstrap.",
-    "title_3": "Copyright © 2022 Giovanni Lamarmora. All rights reserved."
+    "title_3": "Copyright © 2023 Giovanni Lamarmora. All rights reserved."
   },
   "languages": {
     "title": "Lingue",
@@ -162,7 +162,6 @@
     "email_title": "Email",
     "description": "Dimmi di più riguardo la tua Richiesta...",
     "send": "Invia Messaggio",
-    "experience": "2",
     "experience_title": "Anni di esperienza",
     "work_project": "10",
     "work_project_title": "Progetti eseguiti <br>Be | Shaping The Future",
