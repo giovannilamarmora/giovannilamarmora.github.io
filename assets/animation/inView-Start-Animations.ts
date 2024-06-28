@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { LoggerService } from 'src/app/shared/services/log.service';
+import { LoggerService } from 'src/app/shared/services/config/log.service';
 import { environment } from 'src/environments/environment';
 
 const inViewport = (entries: any[], observer: any) => {
@@ -19,7 +19,8 @@ export class InViewStartAnimations {
 
   animateOnView() {
     this.logger.LOG(
-      'Is Animate on View Status Active: ' + environment.isOnViewAnimationsActive,
+      'Is Animate on View Status Active: ' +
+        environment.isOnViewAnimationsActive,
       'InViewStartAnimations: AnimateOnView'
     );
     if (environment.isOnViewAnimationsActive) {

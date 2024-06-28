@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { gsap } from 'gsap';
-import { LoggerService } from 'src/app/shared/services/log.service';
+import { LoggerService } from 'src/app/shared/services/config/log.service';
 import { environment } from 'src/environments/environment';
 
 @Injectable({
