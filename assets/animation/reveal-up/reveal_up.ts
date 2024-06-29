@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { gsap } from 'gsap';
-import { LoggerService } from 'src/app/shared/services/config/log.service';
+import { LOG } from 'src/app/shared/services/config/logger.service';
 import { environment } from 'src/environments/environment';
 
 @Injectable({
@@ -9,10 +9,10 @@ import { environment } from 'src/environments/environment';
 export class RevealUpAnimations {
   environment = environment;
   public scrollBox: any;
-  constructor(private logger: LoggerService) {}
+
   initAnimation() {
     if (environment.isRevealUpActive) {
-      this.logger.LOG(
+      LOG.info(
         'Is RevealUpActive: ' + environment.isRevealUpActive,
         'RevealUpAnimations: initAnimation'
       );
@@ -71,8 +71,8 @@ export class RevealUpAnimations {
         },
       });
     });
-    this.logger.LOG('RevealUp TS is Started', 'RevealUpAnimations: reveal');
-    this.logger.LOG(ScrollTrigger.toString(), 'ScrollTrigger');
+    LOG.info('RevealUp TS is Started', 'RevealUpAnimations: reveal');
+    LOG.info(ScrollTrigger.toString(), 'ScrollTrigger');
   }
 
   stop() {
@@ -93,7 +93,7 @@ export class RevealUpAnimations {
       ScrollTrigger.refresh();
       gsap.registerPlugin(ScrollTrigger);
     });
-    this.logger.LOG('RevealUp TS is Stopped', 'RevealUpAnimations: stop');
+    LOG.info('RevealUp TS is Stopped', 'RevealUpAnimations: stop');
   }
   play() {
     /*document.querySelectorAll('.revealUp').forEach(function (elem) {

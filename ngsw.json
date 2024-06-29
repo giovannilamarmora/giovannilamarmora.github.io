@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1719592184727,
+  "timestamp": 1719682907825,
   "index": "https://giovannilamarmora.github.io/index.html",
   "assetGroups": [
     {
@@ -123,11 +123,11 @@
   "hashTable": {
     "https://giovannilamarmora.github.io/English.webp": "e3a92c9ee4f23dab47788c5b80b1777a81aa82b0",
     "https://giovannilamarmora.github.io/Italy.webp": "22885bbe48d0ceb908781b56dfa0ffa811bd5aaf",
-    "https://giovannilamarmora.github.io/assets/animation/inView-Start-Animations.ts": "a2afd48c8b845c2e40cff26d571cd57ba99ef0bb",
+    "https://giovannilamarmora.github.io/assets/animation/inView-Start-Animations.ts": "c66f8723ff8b69d9b89a285caf22ec4694396dcc",
     "https://giovannilamarmora.github.io/assets/animation/particle-animation/script.js": "76b00a996fbfecdc7c26206c9bbb0b77c3e31eac",
     "https://giovannilamarmora.github.io/assets/animation/particle-animation/style.css": "a3354906cb692b03562f2bfc5d14aabf2515da31",
     "https://giovannilamarmora.github.io/assets/animation/reveal-up/reveal-up.js": "03ef78e121bc16153abad937fef8d02798941dce",
-    "https://giovannilamarmora.github.io/assets/animation/reveal-up/reveal_up.ts": "76b91ca528e4a8fed697cc9f2bef5e7b25fa4eec",
+    "https://giovannilamarmora.github.io/assets/animation/reveal-up/reveal_up.ts": "1a043b9c630f4e5fadae0631b0e74d715b1d40cb",
     "https://giovannilamarmora.github.io/assets/animation/sliding-animations.css": "b5b8f7802d7811dd8ded036d140ba709fbbb0084",
     "https://giovannilamarmora.github.io/assets/i18n/en-GB.json": "f1e3c27f4df1c454a9f406f6ada8cad2a7ae15cd",
     "https://giovannilamarmora.github.io/assets/i18n/it-IT.json": "87ee53bd63fa3296d9a30909699e68566a765524",
@@ -204,7 +204,7 @@
     "https://giovannilamarmora.github.io/assets/template/email-template.json": "4641c132d595651c7ca5fc8850796194203a2c1d",
     "https://giovannilamarmora.github.io/favicon.ico": "e5796b8b31face9d219d8080f029c88e54889342",
     "https://giovannilamarmora.github.io/index.html": "4e90981041f3595d498af4232c3ba7ac252be2aa",
-    "https://giovannilamarmora.github.io/main.js": "31f404ca25a43f6f1076f0f9011eee9d4dc962c7",
+    "https://giovannilamarmora.github.io/main.js": "c7d4da1966f8e0c6125e8184abb0bb3e216cf35c",
     "https://giovannilamarmora.github.io/manifest.webmanifest": "d58d03a24a4ecf0200fa2d88122edaf534128eea",
     "https://giovannilamarmora.github.io/personal-project.webp": "b2a4989894b2a8e0599c92792ecc04d2eea9a9b9",
     "https://giovannilamarmora.github.io/polyfills.js": "4ecdf37ea662c5480353f93614ed52e402fd3ef4",

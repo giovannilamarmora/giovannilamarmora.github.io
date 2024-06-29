@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { LoggerService } from 'src/app/shared/services/config/log.service';
+import { LOG } from 'src/app/shared/services/config/logger.service';
 import { environment } from 'src/environments/environment';
 
 const inViewport = (entries: any[], observer: any) => {
@@ -15,10 +15,8 @@ export class InViewStartAnimations {
   environment = environment;
   obs: IntersectionObserver = new IntersectionObserver(inViewport);
 
-  constructor(private logger: LoggerService) {}
-
   animateOnView() {
-    this.logger.LOG(
+    LOG.info(
       'Is Animate on View Status Active: ' +
         environment.isOnViewAnimationsActive,
       'InViewStartAnimations: AnimateOnView'
@@ -27,7 +25,7 @@ export class InViewStartAnimations {
       document.querySelectorAll('[data-inviewport]').forEach((EL: any) => {
         this.obs.observe(EL);
       });
-      this.logger.LOG(
+      LOG.info(
         'Animate on View is loaded',
         'InViewStartAnimations: AnimateOnView'
       );
