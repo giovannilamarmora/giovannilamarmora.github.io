@@ -56,9 +56,16 @@
     }
   ],
   "footer": {
-    "title_1": "Giovanni Lamarmora | Portfolio",
-    "title_2": "was made with AngularJS and Bootstrap.",
-    "title_3": "Copyright © 2023 Giovanni Lamarmora. All rights reserved."
+    "title": "Giovanni Lamarmora | This portfolio is powered by AngularJS and Bootstrap for the front end, with a backend powered by Spring Boot Reactor. Content management is efficiently handled by Strapi CMS.",
+    "subtitle": "Copyright &copy; #YEAR# Giovanni Lamarmora. All rights reserved.",
+    "link": "Useful Link",
+    "follow": "Follow Me",
+    "home": "Homepage",
+    "biography": "Biography",
+    "works": "Works",
+    "courses": "Courses",
+    "projects": "Projects",
+    "contact": "Contact Me"
   },
   "languages": {
     "title": "Languages",

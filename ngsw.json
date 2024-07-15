@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1720964539181,
+  "timestamp": 1721061910636,
   "index": "https://giovannilamarmora.github.io/index.html",
   "assetGroups": [
     {
@@ -130,9 +130,9 @@
     "https://giovannilamarmora.github.io/assets/animation/particle-animation/style.css": "a3354906cb692b03562f2bfc5d14aabf2515da31",
     "https://giovannilamarmora.github.io/assets/animation/reveal-up/reveal-up.js": "03ef78e121bc16153abad937fef8d02798941dce",
     "https://giovannilamarmora.github.io/assets/animation/reveal-up/reveal_up.ts": "1a043b9c630f4e5fadae0631b0e74d715b1d40cb",
-    "https://giovannilamarmora.github.io/assets/animation/sliding-animations.css": "b5b8f7802d7811dd8ded036d140ba709fbbb0084",
-    "https://giovannilamarmora.github.io/assets/i18n/en-GB.json": "f1e3c27f4df1c454a9f406f6ada8cad2a7ae15cd",
-    "https://giovannilamarmora.github.io/assets/i18n/it-IT.json": "87ee53bd63fa3296d9a30909699e68566a765524",
+    "https://giovannilamarmora.github.io/assets/animation/sliding-animations.css": "642acd6de91ad92e9c44dff9b49816bd0ae8c5dc",
+    "https://giovannilamarmora.github.io/assets/i18n/en-GB.json": "f3e1c0ab17146124ee1dcd2ca007ec8a07d66456",
+    "https://giovannilamarmora.github.io/assets/i18n/it-IT.json": "9c6db822409b5b16ce03b88e10a633d6ddbbf8fd",
     "https://giovannilamarmora.github.io/assets/icons/svg/logo.svg": "ec7473f611c957076397dffb1e3d4df067c45fa0",
     "https://giovannilamarmora.github.io/assets/icons/svg/rounded_black.svg": "87461132451caf8ada24da13825546cc5da7399e",
     "https://giovannilamarmora.github.io/assets/icons/svg/rounded_white.svg": "44bd7f8f1a23a953f7b4dfe57a36a490bf4e1602",
@@ -208,7 +208,7 @@
     "https://giovannilamarmora.github.io/assets/template/email-template.json": "4641c132d595651c7ca5fc8850796194203a2c1d",
     "https://giovannilamarmora.github.io/favicon.ico": "e5796b8b31face9d219d8080f029c88e54889342",
     "https://giovannilamarmora.github.io/index.html": "4e90981041f3595d498af4232c3ba7ac252be2aa",
-    "https://giovannilamarmora.github.io/main.js": "d37b40a3578a8648a4a7448a4dd36bcc8d864e71",
+    "https://giovannilamarmora.github.io/main.js": "6f15c0395cc86162fbbb4b424b0999d1cd3560ff",
     "https://giovannilamarmora.github.io/manifest.webmanifest": "d58d03a24a4ecf0200fa2d88122edaf534128eea",
     "https://giovannilamarmora.github.io/personal-project.webp": "b2a4989894b2a8e0599c92792ecc04d2eea9a9b9",
     "https://giovannilamarmora.github.io/polyfills.js": "4ecdf37ea662c5480353f93614ed52e402fd3ef4",
@@ -216,7 +216,7 @@
     "https://giovannilamarmora.github.io/runtime.js": "faeb06d4b2d8df46ea70092477f7069451a0e9c6",
     "https://giovannilamarmora.github.io/scripts.js": "471452a591d76339b4ed4cf63fd710fe2b84a299",
     "https://giovannilamarmora.github.io/spagna.webp": "643ecb1b9e9577d52b00d26b710a4c13d63225c6",
-    "https://giovannilamarmora.github.io/styles.css": "43b099af71e6dd5e61d8e3f4e0e9ccd3fcf07d0f",
+    "https://giovannilamarmora.github.io/styles.css": "70467eb03ec22e994dddad53bd2682e5400031a3",
     "https://giovannilamarmora.github.io/wallpaper.webp": "851ee441f6155033719afb7bb59dc06a3b090cf9"
   },
   "navigationUrls": [
