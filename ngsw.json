@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1722703380438,
+  "timestamp": 1722703705271,
   "index": "https://giovannilamarmora.github.io/index.html",
   "assetGroups": [
     {
@@ -214,7 +214,7 @@
     "https://giovannilamarmora.github.io/assets/template/email-template.json": "4641c132d595651c7ca5fc8850796194203a2c1d",
     "https://giovannilamarmora.github.io/favicon.ico": "e5796b8b31face9d219d8080f029c88e54889342",
     "https://giovannilamarmora.github.io/index.html": "256e38ffeef618b56514db8c26592ebd83c64f76",
-    "https://giovannilamarmora.github.io/main.js": "086af41fe846bb2a2bafac0b8a2df362961da9c9",
+    "https://giovannilamarmora.github.io/main.js": "a92761f02ecb4280a8f50842d71920cf8d0d02f0",
     "https://giovannilamarmora.github.io/manifest.webmanifest": "d58d03a24a4ecf0200fa2d88122edaf534128eea",
     "https://giovannilamarmora.github.io/personal-project.webp": "b2a4989894b2a8e0599c92792ecc04d2eea9a9b9",
     "https://giovannilamarmora.github.io/polyfills.js": "96b2a52b16017571971d643232d14bc2a8f581be",
