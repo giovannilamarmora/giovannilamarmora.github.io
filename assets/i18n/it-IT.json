@@ -193,7 +193,7 @@
     "projects": [
       {
         "id": 1,
-        "img": "assets/img/project/send-email.webp",
+        "image": "assets/img/project/send-email.webp",
         "titleSecondPage": "Email-Sender",
         "descriptionSecondPage": [
           "Spring Boot Framework",
@@ -205,7 +205,7 @@
       },
       {
         "id": 2,
-        "img": "assets/img/project/GitHub-Alternatives.webp",
+        "image": "assets/img/project/GitHub-Alternatives.webp",
         "titleSecondPage": "Tutti i progetti su Github",
         "btn_text": "Esplora Tutti",
         "btn_href": "https://github.com/giovannilamarmora"

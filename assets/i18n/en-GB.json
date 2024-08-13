@@ -193,7 +193,7 @@
     "projects": [
       {
         "id": 1,
-        "img": "assets/img/project/send-email.webp",
+        "image": "assets/img/project/send-email.webp",
         "titleSecondPage": "Email-Sender",
         "descriptionSecondPage": [
           "Spring Boot Framework",
@@ -204,7 +204,7 @@
         "btn_href": "https://email-sender.hostwebserver.site/email-sender"
       },
       {
-        "img": "https://raw.githubusercontent.com/MoneyStats/App/main/assets/images/logos/logo.png",
+        "image": "https://raw.githubusercontent.com/MoneyStats/App/main/assets/images/logos/logo.png",
         "btn_href": "https://moneystats.github.io/App",
         "titleSecondPage": "MoneyStats",
         "id": 3,
@@ -220,7 +220,7 @@
       },
       {
         "id": 2,
-        "img": "assets/img/project/GitHub-Alternatives.webp",
+        "image": "assets/img/project/GitHub-Alternatives.webp",
         "titleSecondPage": "More Project on Github",
         "btn_text": "Explore All",
         "btn_href": "https://github.com/giovannilamarmora"
