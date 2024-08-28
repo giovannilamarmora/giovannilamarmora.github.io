@@ -73,6 +73,7 @@
     "data": [
       {
         "name": "Italian",
+        "image":"assets/img/languages/Italy.webp",
         "flags": "flag-it",
         "description": "Native Languages",
         "speaking_title": "Speaking",
@@ -87,6 +88,7 @@
       },
       {
         "name": "English",
+        "image":"assets/img/languages/English.webp",
         "flags": "flag-en",
         "description": "B1 at College Green Centre St George's Road Bristol",
         "speaking_title": "Speaking",
@@ -101,6 +103,7 @@
       },
       {
         "name": "Spanish",
+        "image":"assets/img/languages/spagna.webp",
         "flags": "flag-es",
         "description": "B1",
         "speaking_title": "Speaking",
