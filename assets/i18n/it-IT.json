@@ -88,7 +88,7 @@
       {
         "name": "Inglese",
         "flags": "flag-en",
-        "description": "B1 al College Green Centre St George's Road Bristol",
+        "description": "C1 (Avanzato)",
         "speaking_title": "Parlato",
         "speaking_rate": "83",
         "speaking_width": "width: 83%",
@@ -102,7 +102,7 @@
       {
         "name": "Spagnolo",
         "flags": "flag-es",
-        "description": "B1",
+        "description": "B1 (Intermedio)",
         "speaking_title": "Parlato",
         "speaking_rate": "67",
         "speaking_width": "width: 67%",
