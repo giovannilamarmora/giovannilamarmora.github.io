@@ -6,14 +6,12 @@
     "follow": "Follow Me",
     "contact": "Contact Me",
     "description": {
-      "title": "I work with ",
-      "pt1": "Hello, I am ",
-      "pt2": " based in Milan."
+      "title": "I work with "
     }
   },
   "biography": {
     "title": "Biography",
-    "text": "Passionate about technology, from an early age I have always dreamed of being able to work in an IT company. I graduated as a mechanical expert, but my passion subsequently led me to undertake private studies, also thanks to training courses in the IT field. During my professional growth I used my free time to study and expand my knowledge in the IT field, this allowed me to carry out freelance jobs that led me to want to expand my knowledge up to study developing in Java. I currently hold the role of Junior Specialist for an IT company, and I am specializing on the Angular side. For the future I hope to be able to collaborate in the growth of a big company."
+    "text": "<p> With a passion for technology since childhood, I am currently working at Be Shaping as a consultant for UniCredit, developing services in the security field. I use technologies such as <code>Java</code>, <code>Spring Boot</code>, <code>Angular</code>, <code>Docker</code>, <code>Jenkins</code>, <code>Google Cloud</code>, <code>PostgreSQL</code>, <code>MySQL</code>, <code>Strapi</code>, <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>. </p> <p> I have taken several courses to improve my skills, including the Java course, which has allowed me to deepen my knowledge of this technology. </p> <p> My skills include solving complex problems, effective collaboration with teams, project management and planning, adaptability to new technologies and work environments, and experience in leading development teams. </p> <p> My goal is to work on innovative projects that enhance the efficiency and security of software solutions, attract new clients, and collaborate with major companies to create cutting-edge solutions. I aim to expand my knowledge, take on new challenges, and contribute to the development of technologies that make a difference. </p> <p> I am always looking for opportunities to grow professionally and collaborate with teams that share my passion for innovation. If you would like to discuss projects or collaboration opportunities, you can contact me through my social media or the 'Contact Me' section of my website. </p>"
   },
   "works-section": {
     "title": "Work Experience"
@@ -26,16 +24,16 @@
       "to": "Current",
       "role": "Specialist",
       "where": "Milan, Italy",
-      "description": "After joining the UniCredit group initially, I recently transitioned to Hype, contributing to projects involving technologies such as <code>Azure Pipeline</code> and its ecosystem. During this experience, I worked on applications based on <code>Spring Boot</code>, continuing to strengthen my skills in this framework.<br>My current role, back at UniCredit, focuses on a crucial project dedicated to corporate user login. In this context, I am primarily involved in development using <code>Spring Boot</code> and <code>PostgreSQL</code>. My commitment is to ensure secure and efficient access for corporate users, contributing to the overall success of the project.<br>Throughout my career, I have gained solid expertise in code coverage management, conducting accurate tests with <code>JUnit</code> and <code>Mockito</code>. I have also refined my skills in running local and full-scale tests using <code>Postman</code> and related environments.<br>My experience spans various Pre-Deploy and Deploy environments, utilizing tools such as <code>Jenkins</code>, <code>Docker</code>, and <code>OpenShift Pods</code>. I have worked with various databases, including <code>MySQL</code>, <code>PostgreSQL</code>, and <code>Oracle SQL</code>, contributing to the robustness of application operations.<br>Currently, my focus as a Full Stack Developer is on a financial project, where I use a wide range of technologies, including <code>Java EE</code>, <code>Spring Boot</code>, <code>Angular</code>, <code>TypeScript</code>, <code>Node.js</code>, <code>PostgreSQL</code>, <code>Docker</code>, and <code>Google Cloud Platform</code>."
+      "description": "<p> After starting my career with the UniCredit group, I later worked at Hype, contributing to projects involving technologies like <code>Azure Pipeline</code> and its ecosystem. During this experience, I worked on applications based on <code>Spring Boot</code>, further strengthening my skills in this framework. <br><br> Currently, I work in the security domain at UniCredit, where I am involved in developing login solutions for corporate users in different countries, such as Germany and the Czech Republic. Additionally, I collaborate on projects related to <code>SCIM</code> (System for Cross-domain Identity Management), using technologies like <code>Spring Boot</code> and <code>PostgreSQL</code> to ensure secure and efficient access on an international scale. <br><br> Recently, I have taken on the role of Team Leader, where I manage and introduce team members to various projects and tasks, guiding their professional development and ensuring the success of the projects. <br><br> I use the latest technologies such as <code>Spring Boot Reactor</code>, <code>Apache Kafka</code> for event streaming, <code>Redis</code> for caching solutions, <code>Angular</code> for front-end development, <code>Java 22</code> for advanced programming, and <code>Docker</code> containers for application isolation and deployment. I also utilize <code>Google Cloud</code> for deployments and comprehensive logging solutions to ensure robust and secure application performance. <br><br> Throughout my career, I have gained solid experience in managing code coverage, conducting accurate tests with <code>JUnit</code> and <code>Mockito</code>. I have also honed my skills in performing local and large-scale tests using <code>Postman</code> and related environments. <br><br> My experience spans various Pre-Deploy and Deploy environments, utilizing tools such as <code>Jenkins</code>, <code>Docker</code>, and <code>OpenShift Pods</code>. I have worked with various databases, including <code>MySQL</code>, <code>PostgreSQL</code>, and <code>Oracle SQL</code>, contributing to the robustness of application operations. </p>"
     },
     {
       "identifier": 2,
       "title": "Freelance Web Developer",
-      "from": "From January 2017",
+      "from": "From January 2021",
       "to": "Current",
       "role": "Graphic Web Design",
       "where": "Bristol, United Kingdom",
-      "description": "Continuous design and maintenance of websites with content creation & design of <code>HTML CSS And Javascript</code> web pages with social connection and web site testing with different browsers and formats."
+      "description": "<p> Throughout my journey as a Web Designer, I have worked on various personal projects, designing and maintaining websites using <code>HTML, CSS, and JavaScript</code>. I dedicated myself to creating engaging and visually appealing content, aiming to effectively communicate the identity and message of the projects I was working on. I meticulously designed web pages, ensuring a smooth user experience and easy navigation. <br> Additionally, I integrated social media links to enhance connectivity and user engagement. I conducted thorough testing of websites across different browsers and devices to ensure compatibility and optimal performance. This rigorous process allowed me to quickly identify and resolve any issues, ensuring a consistent experience for all users. <br> Over the past few years, I have also worked with advanced technologies such as <code>Angular</code> for front-end development, <code>Spring Boot</code> as microservices for the back-end, and <code>Hibernate</code> for data persistence management. These experiences have enabled me to build modern, scalable, and high-performance web applications, integrating best practices for both user interfaces and business logic. <br> I have always kept myself updated with the latest web design trends and technologies, incorporating modern and innovative elements into my projects. By focusing on both aesthetics and functionality, I have created websites that are not only visually impressive but also highly functional and user-friendly. </p>"
     },
     {
       "identifier": 3,
@@ -44,7 +42,7 @@
       "to": "To January 2020",
       "role": "IT Technician",
       "where": "Bristol, United Kingdom",
-      "description": "&bull; Diagnose and troubleshoot efficiently while preserving data integrity throughout the process. <br> &bull; Keep the <code>Windows and Mac operating system up to date.</code><br>&bull; Upgrading old laptops with a lite operating system <code>(Linux / Chrome OS / Debian).</code><br>&bull; Hardware upgrade of components such as RAM or SSD. <br>&bull; Troubleshooting the operating system. <br>&bull; Installation and management of software <code>(Adobe, Office, VMWare, Eclipse). </code> <br>&bull; Data recovery for private and small / medium businesses. <br>&bull; Repair and maintenance of <code>Android and iOS Smartphones. </code>"
+      "description": "<p> During my professional experience, I have tackled a variety of technical tasks that have allowed me to develop advanced skills in the maintenance and repair of computer systems and mobile devices. I diagnosed and resolved technical issues efficiently, always ensuring data integrity throughout the process. My work included the regular maintenance and updating of <code>Windows</code> and <code>Mac</code> operating systems, ensuring they remained secure and performant. <br> Additionally, I upgraded old laptops by installing lightweight operating systems such as <code>Linux</code>, <code>Chrome OS</code>, and <code>Debian</code>, significantly improving their efficiency and usability. Part of my role also involved hardware upgrades, where I installed new components like RAM and SSDs to enhance system performance. <br> I tackled and resolved various operating system issues, ensuring that all software ran correctly and stably. I managed the installation and maintenance of essential software such as <code>Adobe</code>, <code>Office</code>, <code>VMWare</code>, and <code>Eclipse</code>, keeping programs updated to meet user needs. <br> Another aspect of my job was data recovery, where I assisted both individuals and small to medium-sized businesses in retrieving crucial information, minimizing data loss. I also repaired and maintained <code>Android</code> and <code>iOS</code> smartphones, resolving technical issues and extending the lifespan of the devices. </p>"
     },
     {
       "identifier": 4,
@@ -53,7 +51,7 @@
       "to": "To September 2019",
       "role": "Hostel Duty Manager",
       "where": "Bristol, United Kingdom",
-      "description": "&bull; Reservations Manager. <br>&bull; Personnel and working hours manager. <br>&bull; Personnel Recruitment Officer. <br>&bull; Office manager. <br>&bull; Daily and weekly closing and responsible for bank deposits. <br>&bull; Management of prices for overnight stays. <br>&bull; Event organization for large groups. <br>&bull; Responsible for collaboration with Expedia, Booking.com, Agoda. <br>&bull; Head of Social Media."
+      "description": "<p> Throughout my career, I have had the opportunity to take on various roles that have significantly contributed to my growth and experience, including: <br> &bull; Reservation management and customer relations. <br> &bull; Staff supervision and organization of daily activities. <br> &bull; Responsibility in hiring and training personnel. <br> &bull; Office operations coordination and daily/weekly closure. <br> &bull; Pricing management for accommodations and optimization strategies. <br> &bull; Organization of events for large groups. <br> &bull; Collaboration with platforms such as Expedia, Booking.com, Agoda. <br> &bull; Social media management and development of communication strategies. </p>"
     }
   ],
   "footer": {
@@ -73,7 +71,7 @@
     "data": [
       {
         "name": "Italian",
-        "image":"assets/img/languages/Italy.webp",
+        "image": "assets/img/languages/Italy.webp",
         "flags": "flag-it",
         "description": "Native Languages",
         "speaking_title": "Speaking",
@@ -88,7 +86,7 @@
       },
       {
         "name": "English",
-        "image":"assets/img/languages/English.webp",
+        "image": "assets/img/languages/English.webp",
         "flags": "flag-en",
         "description": "C1 (Advanced)",
         "speaking_title": "Speaking",
@@ -103,7 +101,7 @@
       },
       {
         "name": "Spanish",
-        "image":"assets/img/languages/spagna.webp",
+        "image": "assets/img/languages/spagna.webp",
         "flags": "flag-es",
         "description": "B1 (Intermediate)",
         "speaking_title": "Speaking",
@@ -137,7 +135,7 @@
         "to": "To November 2019",
         "role": "CCNA 1, 2, 3, 4 Routing And Switching",
         "where": "City of Bristol College, Bristol, United Kingdom",
-        "description": "<strong><h4>CCNA 1: Introduction to Networks, Score: 89.5/100</h4></strong> <br>I've have achieved student level credential for completing CCNA Routing and Switching: Introduction to Networks, and i acquired the following capabilities:<br>&bull; Explain network technologies.<br>&bull; Explain how devices access local and remote network resources.<br>&bull; Describe router hardware.<br>&bull; Explain how switching operates in a small to medium-sized business network.<br>&bull; Design an IP addressing scheme to provide network connectivity for a small to medium- sized business network.<br>&bull; Configure initial settings on a network device.<br>&bull; Implement basic network connectivity between devices.<br>&bull; Configure monitoring tools available for small to medium-sized business networks.<br><hr><strong><h4>CCNA 2: Routing and Switching Essentials, Score: 89.1/100</h4></strong> <br>I've successfully complete the CCNA Routing and Switching: Routing and Switching Essentials , and i acquired the following capabilities:<br>&bull; Determinate how a router will Forward traffic based on the contents of a routing table.<br>&bull; Explain how switching operates in a small to medium-sized business network.<br>&bull; Use monitoring tools and network management protocols to troubleshoot data networks.<br>&bull; Configure monitoring tools available for small to medium-sized business networks.<br>&bull; Configure initial settings on a network device.<br>&bull; Configure <code>Ethernet Switch</code> ports.<br>&bull; Implement <code>VLANs</code>.<br>&bull; Implement static routing and <code>RIPv2</code>.<br>&bull; Implement <code>DHCP</code> on a router.<br>&bull; Implement network address translation <code>(NAT)</code>.<br>&bull; Implement access control lists <code>(ACLs)</code> to filter Traffic.<br><hr><strong><h4>CCNA 3: Scaling Networks</h4></strong> <br>I've successfully completed the CCNA Routing and Switching: Scaling Networks, and i acquired the following capabilities:<br>&bull; Describe the operations and benefits of the Spanning Tree Protocol <code>(STP)</code>. <br>&bull; Configure and troubleshoot <code>STP</code> operations. <br>&bull; Describe the operations and benefits of link aggregation and <code>Cisco VLAN Trunk Protocol (VTP)</code>. <br>&bull; Configure and troubleshoot <code>VTP, STP, DTP, and RSTP</code>. <br>&bull; Configure and troubleshoot <codeinter-VLAN routing</code>. <br>&bull; Configure and troubleshoot <code>EtherChannel and HSRP</code>. <br>&bull; Configure and troubleshoot basic operations of routers in a complex routed network for <code>IPv4 and IPv6</code>. <br>&bull; Configure and troubleshoot advanced operations of routers and implement <code>OSPF and EIGRP</code> routing protocols for <code>IPv4 and IPv6</code>. <br><hr><strong><h4>CCNA 4: Advanced Networks</h4></strong><br> I've successfully completed the CCNA Routing and Switching: Advanced Networks, and i acquired the following capabilities:<br>&bull; Describe different <code>WAN</code> technologies and their benefits.&bull; Configure and troubleshoot <code>PPP</code>.<br>&bull; Configure <code>PPPoE, GRE, and single-homed eBGP</code>.&bull; Configure and troubleshoot extended <code>IPv4 and IPv6 ACLs</code>.&bull; Explain how to mitigate common <code>LAN</code> security attacks.&bull; Describe <code>QoS</code> operation.&bull; Describe evolving networks including cloud, virtualization, SDN, and the Internet of Things&bull; Troubleshoot end-to-end connectivity in a small to medium-sized business network, using a systematic approach."
+        "description": "<strong><h4>CCNA 1: Introduction to Networks, Score: 89.5/100</h4></strong> <p> I successfully completed the <code>CCNA Routing and Switching: Introduction to Networks</code> course, where I acquired fundamental skills in Cisco network introduction, understanding network technologies, and initial network device configuration. During the course, I deepened my knowledge of router hardware and learned to configure basic network parameters. </p> <hr> <strong><h4>CCNA 2: Routing and Switching Essentials, Score: 89.1/100</h4></strong> <p> I successfully completed the <code>CCNA Routing and Switching: Routing and Switching Essentials</code> course, which allowed me to refine skills in advanced network device configuration, implementation of <code>VLANs</code>, management of <code>DHCP</code>, and <code>NAT</code> configuration. This course provided me with a solid practical foundation for managing complex networks and improving connectivity performance. </p> <hr> <strong><h4>CCNA 3: Scaling Networks</h4></strong> <p> I successfully completed the <code>CCNA Routing and Switching: Scaling Networks</code> course, where I delved into configuration and troubleshooting of <code>STP</code> (Spanning Tree Protocol) and <code>VTP</code> (VLAN Trunking Protocol). I gained advanced skills in managing <code>VLANs</code>, <code>inter-VLAN</code> configuration, and <code>IPv4</code> and <code>IPv6</code> protocol management. This course prepared me to successfully tackle larger networks and implement scalable solutions. </p> <hr> <strong><h4>CCNA 4: Advanced Networks</h4></strong> <p> I successfully completed the <code>CCNA Routing and Switching: Advanced Networks</code> course, which provided me with in-depth knowledge of <code>WAN</code> networks and how to configure and troubleshoot <code>PPP</code> (Point-to-Point Protocol). During the course, I learned to implement <code>PPPoE</code>, <code>GRE</code>, and single-homed <code>eBGP</code>, as well as develop skills in <code>LAN</code> security and network troubleshooting for small to medium enterprises. </p>"
       },
       {
         "identifier": 3,
@@ -146,7 +144,7 @@
         "to": "To May 2017",
         "role": "English Course Level B1",
         "where": "City of Bristol College, Bristol, United Kingdom",
-        "description": "I've successfully completed the English course for a Level B1"
+        "description": "<p> I successfully completed the English Language Course at B1 level, achieving proficiency in both written and spoken English. Throughout the course, I honed my ability to engage in everyday conversations, express opinions, and comprehend complex texts. I developed essential language skills such as grammar, vocabulary expansion, and effective communication strategies. <br><br> The course enhanced my listening skills, enabling me to understand English spoken at a normal speed with various accents and dialects. I also improved my reading comprehension, effectively extracting key information from articles, reports, and literary texts. <br><br> Additionally, I practiced writing coherent and structured texts, including formal emails, reports, and essays. This course provided a solid foundation in English language proficiency, empowering me to communicate fluently and confidently in professional and social settings. </p>"
       },
       {
         "identifier": 4,
@@ -155,7 +153,7 @@
         "to": "To February 2018",
         "role": "Cyber Security: Introducing to the World of Cyber Security",
         "where": "Smart Learning, Udemy",
-        "description": "I've successfully completed the course of Cyber Security CEH , and i acquired the following capabilities:<br>&bull; What is an Ethical Hacker.<br>&bull; What are the main vectors of attack on a network.<br>&bull; The stages of a cyber attack.<br>&bull; How to carry out a Penetration Testing.<br>&bull; How to create your own workshop.<br>&bull; Use virtual machines.<br>&bull; Install <code>Windows and Kali Linux</code> operating systems.<br>&bull; Run the main <code>Linux commands</code>.<br>&bull; Create concept maps.<br>&bull; Understanding the basic operation of a network.<br>&bull; What is an <code>IP address</code>.<br>&bull; How to use the <code>PING-ARP-TRACEROUTE</code>.<br>&bull; How NAT-DNS-DHCP works.<br>&bull; Perform basic operations with Netcat.<br>&bull; Use Cisco Packet Tracer for network simulation.<br>&bull; How a switch works and what <code>VLANs</code> are.<br>&bull; The difference between a router and a firewall.<br>&bull; What is meant by <code>Google Hacking</code>.<br>&bull; Collect information on Social Media.<br>&bull; How to query a <code>DNS</code>.<br>&bull; Finding vulnerabilities with <code>Shodan</code>.<br>&bull; Install and configure a honeypot.<br>&bull; Scan a network.<br>&bull; Sniff packets with Wireshark.<br>&bull; The difference between TCP and UDP protocol.<br>&bull; The techniques of Banner Grabbing.<br>&bull; Banner capture with <code>TELNET, NETCAT and NMAP</code>.<br>&bull; Active and passive fingerprinting methods.<br>&bull; Perform a vulnerability assessment.<br>&bull; Nessus installation and configuration.<br>&bull; Launch a scan with Nexpose.<br>&bull; Different Types of Exploitation.<br>&bull; Introduction and configuration of Metasploit.<br>&bull; Use the <code>METERPRETER</code> shell.<br>&bull; Evade Antivirus with <code>Veil</code>.<br>&bull; How to escalate privileges.<br>&bull; How to inject malicious code.<br>&bull; Install a backdoor on a target system.<br>&bull; The pivoting techniques of a network.<br>&bull; How to write the final Penetration Testing report."
+        "description": "<p> Throughout the Cyber Security CEH course, I delved into the role of an Ethical Hacker and their responsibilities in safeguarding computer networks. I acquired advanced skills in diagnosing and resolving vulnerabilities while maintaining data integrity throughout the process. <br><br> I learned to configure and utilize virtual machines for secure testing environments, installing and managing operating systems such as <code>Windows</code> and <code>Kali Linux</code>. I developed proficiency in advanced command-line operations in <code>Linux</code> environments and adeptly managed key network protocols like <code>DNS</code>, <code>PING</code>, <code>ARP</code>, and <code>TRACEROUTE</code>. <br><br> During the course, I explored ethical hacking techniques like <code>Google Hacking</code> for gathering sensitive information online and identifying vulnerabilities using tools such as <code>Shodan</code> and <code>Nmap</code>. I mastered the setup and utilization of honeypots to attract and analyze attacks, along with advanced skills in network traffic analysis using tools like <code>Wireshark</code>. <br><br> Additionally, I studied the differences between <code>TCP</code> and <code>UDP</code> communication protocols, active and passive fingerprinting techniques for system and application identification, and conducted vulnerability assessments using tools such as <code>Nessus</code> and <code>Nexpose</code>. <br><br> I also deepened my understanding of frameworks like <code>Metasploit</code> for developing and executing exploits, and gained proficiency in the <code>METERPRETER</code> shell for remote control of compromised systems. I explored privilege escalation techniques and malicious code injection for testing application security. <br><br> Lastly, I compiled detailed reports on Penetration Testing results, thoroughly documenting discovered vulnerabilities and providing security recommendations to enhance network and system protection. </p>"
       }
     ]
   },
@@ -174,9 +172,9 @@
     "description": "Tell me more about your request...",
     "send": "Send Message",
     "experience_title": "Years Experiance",
-    "work_project": "10",
+    "work_project": "15",
     "work_project_title": "Projects Done <br>Be | Shaping The Future",
-    "project": "12",
+    "project": "13",
     "project_title": "Personal Projects",
     "course": "8",
     "course_title": "Courses Done",
@@ -197,36 +195,29 @@
       {
         "id": 1,
         "image": "assets/img/project/send-email.webp",
-        "titleSecondPage": "Email-Sender",
-        "descriptionSecondPage": [
-          "Spring Boot Framework",
-          "Github Workflow",
-          "Heroku"
-        ],
-        "btn_text": "Open App",
-        "btn_href": "https://email-sender.hostwebserver.site/email-sender"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/MoneyStats/App/main/assets/images/logos/logo.png",
-        "btn_href": "https://moneystats.github.io/App",
-        "titleSecondPage": "MoneyStats",
-        "id": 3,
-        "btn_text": "Apri App",
-        "descriptionSecondPage": [
-          "AngularJS",
-          "Spring Boot Framework",
-          "Github Workflow & Pages",
-          "Logtail",
-          "Oracle Cloud",
-          "Docker Container"
-        ]
+        "title": "Email-Sender",
+        "subtitle": "Service",
+        "description": "Implemented using Spring Boot, Email Sender utilizes Google's SMTP service for efficient email communication. Integrated into your website and other personal applications, it facilitates direct messaging and notifications.",
+        "button_text": "Open App",
+        "button_link": "https://email-sender.giovannilamarmora.com"
       },
       {
         "id": 2,
+        "image": "assets/img/project/logo_no_name.png",
+        "button_link": "https://moneystats.github.io",
+        "title": "MoneyStats",
+        "subtitle": "Application",
+        "button_text": "Apri App",
+        "description": "Developed in Spring Boot and Angular, MoneyStats is an application for personal finance management. It leverages MySQL for backend operations, allowing users to monitor and analyze their income and expenditures effectively."
+      },
+      {
+        "id": 3,
         "image": "assets/img/project/GitHub-Alternatives.webp",
-        "titleSecondPage": "More Project on Github",
-        "btn_text": "Explore All",
-        "btn_href": "https://github.com/giovannilamarmora"
+        "title": "More Project on Github",
+        "subtitle": "Giovanni Lamarmora",
+        "button_text": "Explore All",
+        "button_link": "https://github.com/giovannilamarmora",
+        "description": "Explore a different array of projects on my GitHub profile, showcasing expertise across various technological domains. From personal projects to contributions to open-source repositories, each project underscores my skills and dedication to software development."
       }
     ]
   },
