@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title>Contattami</title>
+    <meta content="Template di Contattami." name="description" />
+    <style type="text/css">
+      @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600&display=swap");
+
+      body {
+        margin: 0;
+        background-color: #f2f3f8;
+        font-family: "Poppins", sans-serif;
+      }
+
+      a {
+        text-decoration: none;
+        text-align: center;
+      }
+
+      .logo {
+        color: #1e1e2d;
+      }
+
+      .card {
+        max-width: 670px;
+        background: #ffffff;
+        border-radius: 20px;
+        text-align: center;
+        box-shadow: 0 6px 18px 0 rgba(0, 0, 0, 0.06);
+        padding: 40px 35px;
+        margin: auto;
+      }
+
+      .title img {
+        width: 90px;
+      }
+
+      .heading {
+        color: #1e1e2d;
+        font-weight: 500;
+        margin: 0;
+        font-size: 24px;
+      }
+
+      .separator {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 29px 0 26px;
+        border-bottom: 1px solid #cecece;
+        width: 100px;
+      }
+
+      .description {
+        color: #455056;
+        font-size: 15px;
+        line-height: 24px;
+        margin: 0;
+      }
+
+      .glowing {
+        z-index: 1;
+        padding: 12px 24px;
+        border-radius: 50px;
+        display: inline-block;
+        color: #fff !important;
+        font-weight: 500;
+        font-size: 14px;
+        text-transform: uppercase;
+        text-decoration: none !important;
+        box-sizing: border-box;
+        background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+        background-size: 400%;
+        cursor: pointer;
+        margin-top: 35px;
+        position: relative;
+        transition: 0.2s;
+      }
+
+      @keyframes animate {
+        0% {
+          background-position: 0%;
+        }
+
+        100% {
+          background-position: 400%;
+        }
+      }
+
+      .glowing:hover {
+        z-index: 1;
+        animation: animate 8s linear infinite;
+      }
+
+      .glowing:before {
+        z-index: 1;
+        content: "";
+        position: absolute;
+        display: block;
+        top: -5px;
+        left: -5px;
+        bottom: -5px;
+        right: -5px;
+        z-index: -1;
+        background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+        background-size: 400%;
+        border-radius: 50px;
+        opacity: 0;
+        transition: opacity 1s, filter 1s;
+      }
+
+      .glowing:hover:before {
+        filter: blur(20px);
+        opacity: 1;
+        animation: animate 8s linear infinite;
+      }
+
+      .footer {
+        font-size: 14px;
+        color: rgba(69, 80, 86, 0.74);
+        line-height: 18px;
+        text-align: center;
+        margin: 20px 0 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!--100% body table-->
+    <table
+      border="0"
+      style="background-color: #f2f3f8"
+      cellpadding="0"
+      cellspacing="0"
+      width="100%"
+    >
+      <tr>
+        <td style="padding: 20px 0">
+          <table
+            align="center"
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            style="max-width: 670px; margin: 0 auto"
+          >
+            <tr>
+              <td class="title" style="text-align: center">
+                <a href="{{SITE_URL}}" target="_blank" title="logo">
+                  <img
+                    alt="logo"
+                    src="https://github.com/giovannilamarmoraproject/Angular-Personal-Portfolio/blob/master/src/assets/icons/white/icon-512x512.png?raw=true"
+                    title="MoneyStats"
+                  />
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 20px">&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+                <div class="card">
+                  <h1 class="heading">Ciao {{NAME}},</h1>
+                  <h1 class="heading">Grazie per avermi contattato!</h1>
+                  <span class="separator"></span>
+                  <p class="description">
+                    Ho ricevuto il tuo messaggio. Ecco una copia della tua
+                    email:
+                  </p>
+                  <br />
+                  <p class="description">{{EMAIL_COPY}}</p>
+                  <br />
+                  <p class="description">
+                    Ti risponderò al più presto. Nel frattempo, sentiti libero
+                    di esplorare il sito o di contattarmi di nuovo se hai
+                    domande urgenti.
+                  </p>
+                  <br />
+                  <p class="description">
+                    <strong>Grazie - Giovanni Lamarmora</strong>
+                  </p>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td style="height: 20px">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="footer">
+                <p>&copy; <strong>{{SITE_SHORT}}</strong></p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <!--/100% body table-->
+  </body>
+</html>
