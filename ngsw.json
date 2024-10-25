@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1729874822191,
+  "timestamp": 1729889223719,
   "index": "https://giovannilamarmora.github.io/index.html",
   "assetGroups": [
     {
@@ -136,8 +136,8 @@
     "https://giovannilamarmora.github.io/assets/animation/reveal-up/reveal-up.js": "03ef78e121bc16153abad937fef8d02798941dce",
     "https://giovannilamarmora.github.io/assets/animation/reveal-up/reveal_up.ts": "1a043b9c630f4e5fadae0631b0e74d715b1d40cb",
     "https://giovannilamarmora.github.io/assets/animation/sliding-animations.css": "642acd6de91ad92e9c44dff9b49816bd0ae8c5dc",
-    "https://giovannilamarmora.github.io/assets/i18n/en-GB.json": "94da3346c7a1fdb40d04dca7d3a5e17c49bd86d8",
-    "https://giovannilamarmora.github.io/assets/i18n/it-IT.json": "f45bb632c2f632a27d85c202dcdd27b091e0932e",
+    "https://giovannilamarmora.github.io/assets/i18n/en-GB.json": "4c04b11b2d2b12323b1a2b8c007bd0f68e159246",
+    "https://giovannilamarmora.github.io/assets/i18n/it-IT.json": "8fbcffb43366b9c3db279b06822d718a42c220c2",
     "https://giovannilamarmora.github.io/assets/icons/svg/logo.svg": "ec7473f611c957076397dffb1e3d4df067c45fa0",
     "https://giovannilamarmora.github.io/assets/icons/svg/rounded_black.svg": "87461132451caf8ada24da13825546cc5da7399e",
     "https://giovannilamarmora.github.io/assets/icons/svg/rounded_white.svg": "44bd7f8f1a23a953f7b4dfe57a36a490bf4e1602",
@@ -216,7 +216,7 @@
     "https://giovannilamarmora.github.io/assets/template/email-template.json": "efbe636c76e6fb6acf99f75860824c23b36bb035",
     "https://giovannilamarmora.github.io/favicon.ico": "e5796b8b31face9d219d8080f029c88e54889342",
     "https://giovannilamarmora.github.io/index.html": "fe525af6e372ab388bd8e34fd297333c6d35e5c0",
-    "https://giovannilamarmora.github.io/main.js": "fa09d9b6ac90830dd345c6654a3a8ad3adb66346",
+    "https://giovannilamarmora.github.io/main.js": "8cd61b896a393f93d8922107253a35bb8ba2cff3",
     "https://giovannilamarmora.github.io/manifest.webmanifest": "d58d03a24a4ecf0200fa2d88122edaf534128eea",
     "https://giovannilamarmora.github.io/personal-project.webp": "b2a4989894b2a8e0599c92792ecc04d2eea9a9b9",
     "https://giovannilamarmora.github.io/polyfills.js": "f62189d4d6b70dbb34697f608016c5e7ada1a787",
